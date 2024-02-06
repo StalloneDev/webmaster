@@ -3,6 +3,7 @@ apturl
 asgiref
 attrs
 click
+whitenoise
 colorama
 decorator
 future
