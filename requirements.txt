@@ -1,5 +1,5 @@
 asgiref==3.7.2
-certify==2023.7.22
+
 chardet==5.1.0
 django==4.2.3
 gunicorn==21.2.0
